@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+selenium
+mcp (或其它你的MCP lib，如 pmcp/aiomcp)
+fastapi
+uvicorn
